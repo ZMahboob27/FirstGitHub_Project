@@ -1,6 +1,6 @@
 public class First_File {
     public static void main(String[] args) {
-        String name = "Sara";
+        String groupL = "Sara";
         String groupMemberName = "Muhammad Hasham";
         String rollno = "20I-0556";
         System.out.println("Name: " + name);
